@@ -35,7 +35,8 @@ Coding challenge for senior developers
     <li>Please share the code using a public git repo</li>
     <li>Please include documentation ofr your code, with instructions to run a local instance of the application along with the file for environment variables (if needed) </li>
     <li>Take all the time you need</li>
-    <li>If you have any questions, please send them over to ahsan@rozee.pk and we will get back to you as soon as possible</li>
+    <li>If you have any questions, please send them over to ahsan.gulzar@rozee.pk and we will get back to you as soon as possible</li>
+    <li>Please send you submissions to ahsan.gulzar@rozee.pk </li>
   </ul>
   
   <p>I wish you the best of luck and I look forward to your submission</p>
