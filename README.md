@@ -16,28 +16,9 @@ Coding challenge for senior developers
   <li>After uploading the file, the user can submit the file</li>
   <li>After submission, user can slice the video at mulitple timestamps</li>
   <li>After the user is happy with the timestamps, they can submit the times where the video is to be sliced</li>
-  <li>After submission, the user must be presented with the sliced sections of the video for them to see. They must be able to download those sections</li>
-  <li>Then the user must have a button which allows them to save results</li>
-  <li>Whent he user chooses to save the results so that they can come back to the homepage and find their GIF slices</li>
-  <li>When the user chooses to save the results, they must be taken to a form where they can choose their username and a secret passphrase that allows them to search for their slices from the homepage</li>
+  <li>After submission, the user must be presented with the sliced sections of the video for them to see</li>
   </ol>
   
-  
-  <h3>Requirements</h3>
-  
-  <ul>
-    <li>Use react to built the interface</li>
-    <li>Bonus points for a great UX :)</li>
-    <li>The saved GIFs must be stored. Use the method of file storage of your choice</li>
-    <li>Use the video slicing library of your choice</li>
-    <li>Build an API that allows the user to submit and retrieve the the image results</li>
-    <li>Please submit a live demo</li>
-    <li>Please share the code using a public git repo</li>
-    <li>Please include documentation ofr your code, with instructions to run a local instance of the application along with the file for environment variables (if needed) </li>
-    <li>Take all the time you need</li>
-    <li>If you have any questions, please send them over to ahsan.gulzar@rozee.pk and we will get back to you as soon as possible</li>
-    <li>Please send you submissions to ahsan.gulzar@rozee.pk </li>
-  </ul>
   
   <p>I wish you the best of luck and I look forward to your submission</p>
   
